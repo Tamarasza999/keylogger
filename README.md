@@ -1,5 +1,10 @@
 # Cross-Platform Keylogger (Python)
 
+> **Disclaimer**  
+> This project is intended for educational and ethical testing purposes only.  
+> Do not use this software on any system without the explicit consent of the owner.  
+> The author is not responsible for any misuse or damage resulting from this tool.
+
 ## Security Overview  
 - Logs typed characters to a local file with timestamped entries  
 - Supports macOS, Linux, and Windows  
